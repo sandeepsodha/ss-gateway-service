@@ -11,8 +11,8 @@
     <groupId>com.example</groupId>
     <artifactId>gatewayservice</artifactId>
     <version>prod-1</version>
-    <name>gatewayserver</name>
-    <description>gatewayserver</description>
+    <name>gatewayservice</name>
+    <description>gatewayservice</description>
     <properties>
         <java.version>11</java.version>
         <spring-cloud.version>2021.0.7</spring-cloud.version>
